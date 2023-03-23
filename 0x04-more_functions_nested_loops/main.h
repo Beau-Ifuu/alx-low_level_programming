@@ -1,7 +1,8 @@
-#ifndef MAIN.H
-#define MAIN.H
+#ifndef main_file
+#define main_file
 
-int_putchar(char c);
+
+int _putchar(char c);
 int _isupper(int c);
 int _isdigit(int c);
 int mul(int a, int b);
